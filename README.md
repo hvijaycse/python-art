@@ -10,7 +10,7 @@ In order to get started on this project, I recommend you watch the section on **
 2. Make sure you have Python 3 installed on your machine
 3. Install [Pillow library](https://pillow.readthedocs.io/en/stable/installation.html)
 4. run the command: `python3 make_art.py zeroToMasteryIcon.png 1` or `python3 make_art.py zeroToMasteryIcon.png 2` for a more clear output [zoomout a little bit]
-5. Stare with amazement 😮
+5. Stare in amazement 😮
 
 
 **All discussions around this event can now be had in our #hacktoberfest-2019 channel on Discord!**
